@@ -30,7 +30,7 @@ namespace SimpleLineNotifyApp
 
         static void Main(string[] args)
         {   
-            string token = "5mux5jOtE9TLf6rfXY3YIyEq1UiycGK8T45buHXjUpP";
+            string token = "自己填";
 
             string Params = "I'm here!";
 
